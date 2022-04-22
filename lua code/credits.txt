@@ -1,0 +1,28 @@
+GAME CREATED AND MAINTAINED BY Indie Apps
+@ Joint Venture of Sabin, Suresh and OM
+If u have anything to say about this game: 
+feel free to Send Email @ sabin.khanal.33@gmail.com and
+Report Bugs/feature request @ sabinkhanal.com.np/apps
+Credits:
+Contents:
+Most of the contents in this game are licensed with Creative commons .
+Backgrounds + walking man in menu page:
+Dylan Squires,Open Game Art CC0
+Explosion sound: http://opengameart.org/content/explosion-0
+Man Grunt : http://soundbible.com/462-Male-Grunt.html
+Forest : http://opengameart.org/content/forest-background
+attribution
+http://hawkadium.blogspot.ca/  --sky
+Created by Indie Squid http://indiesquid.com--dark knight
+PlatForge project, as well as the artists: Summer Thaxton and Hannah Cohan.
+main :http://opengameart.org/content/several-scrolling-backgrounds-and-layerable-runners
+Mountain Background: bevouliin.com
+Desert: pzeh:http://opengameart.org/content/free-desert-platformer-tileset:Level Up Sound: "Level up sound effects" by Bart Kelsey. Commissioned by Will Corwin for OpenGameArt.org 
+Mountain+forests : PlatForge project, as well as the artists: Summer Thaxton and Hannah Cohan. (thomaswp/opengamearts.com)
+Music: SoundBible
+All other contents source:
+* I will update the list if i found attributions of other contents . All the image and Music contents are downloaded from any of these sites* 
+opengameart.org,soundBible.com,freegamearts.org
+
+
+
