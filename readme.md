@@ -4,7 +4,7 @@
 - Created initially in Java using LibGDx, unsatisfied with output
 - Created on Lua again with Corona Framework
 - Apk and demo attached
-- ![Demo Video](demo.avi)
+- ![Demo Video](Game demo.avi)
 - 
-- ![](screenshots/2.JPG)
+- ![Screenshot](screenshots/2.JPG)
 
